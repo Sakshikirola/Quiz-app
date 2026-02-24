@@ -1,16 +1,36 @@
-# React + Vite
+🧠 Quiz App – React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Quiz Application built using React.js.
+This project was created to practice React concepts like hooks, state management, conditional rendering, and DOM manipulation using useRef.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Multiple choice questions
+✅ Highlights correct answer
+❌ Shows wrong answer selection
+🔒 Prevents multiple selections (lock system)
+🔄 Next question functionality
+📊 Dynamic question counter
+🎨 Clean and responsive UI 
 
-## React Compiler
+🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React.js
+JavaScript (ES6+)
+CSS3
+Vite (for project setup) 
+Vercel for deploying 
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Correct Answer
+![Correct](./screenshots/correct.png)
+
+### Wrong Answer
+![Wrong](./screenshots/wrong.png)
+
+### Result Screen
+![Result](./screenshots/result.png) 
+ 
+📌 Author
+Sakshi Kirola

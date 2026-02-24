@@ -31,6 +31,9 @@ Vercel for deploying
 
 ### Result Screen
 ![Result](./screenshots/result.png) 
+
+### Live : 
+https://quiz-app-chi-sand.vercel.app/
  
 📌 Author
 Sakshi Kirola
